@@ -105,9 +105,9 @@ export const experiences = [{
         id: 1,
         img: "https://i0.wp.com/eeyed.gr/wp-content/uploads/2017/09/logo.jpg?ssl=1",
         role: "IT Support",
-        company: "424 General Military hospital",
+        company: "424 Department of Research and Information",
         date: "May 2023 - March 2023",
-        desc: "Working on solving general problems, construction of computers, construction of networks, repair of printers, solving problems on call",
+        desc: "Working on solving general problems, PC building, network wiring and setup, repair of printers, solving problems on call",
         skills: [
             "html",
             "Css",
